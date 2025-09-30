@@ -1,6 +1,6 @@
 # Bubble Chart
 
-[![pub package](https://img.shields.io/pub/v/bubble_chart.svg)](https://pub.dev/packages/bubble_chart)
+[![pub package](https://img.shields.io/pub/v/flutter_bubble_chart.svg)](https://pub.dev/packages/flutter_bubble_chart)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A beautiful and interactive bubble chart widget for Flutter with physics-based animations. Perfect for visualizing market data, statistics, and dynamic datasets.
@@ -24,7 +24,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  bubble_chart: ^1.0.0
+  flutter_bubble_chart: ^1.0.0
 ```
 
 Then run:
@@ -38,7 +38,7 @@ flutter pub get
 ### Basic Example
 
 ```dart
-import 'package:bubble_chart/bubble_chart.dart';
+import 'package:flutter_bubble_chart/flutter_bubble_chart.dart';
 import 'package:flutter/material.dart';
 
 class MyWidget extends StatelessWidget {

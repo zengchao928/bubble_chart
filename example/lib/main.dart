@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:bubble_chart/bubble_chart.dart';
+import 'package:flutter_bubble_chart/flutter_bubble_chart.dart';
 
 void main() {
   runApp(const MyApp());
