@@ -16,7 +16,15 @@ A beautiful and interactive bubble chart widget for Flutter with physics-based a
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.webm
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zengchao928/bubble_chart/main/screenshots/demo.png" alt="Bubble Chart Demo" width="300"/>
+</p>
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/demo.mp4" width="300" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 *Interactive bubble chart with physics-based animations - tap bubbles to interact, tap empty space to push them away!*
 

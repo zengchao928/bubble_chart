@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2025-09-30
+
+### Changed
+- Added screenshot image for better preview
+- Converted demo video to MP4 format
+- Improved README with both image and video demonstration
+- Enhanced visual presentation on pub.dev and GitHub
+
 ## [1.0.1] - 2025-09-30
 
 ### Changed
