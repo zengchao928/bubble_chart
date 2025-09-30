@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2025-09-30
+
+### Changed
+- Added demo video to README for better visualization
+- Improved documentation with video demonstration
+
 ## [1.0.0] - 2025-09-30
 
 ### Added
